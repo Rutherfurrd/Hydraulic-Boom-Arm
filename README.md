@@ -3,6 +3,8 @@
 
 This is a hydraulically-actuated boom arm. It makes use of a potentiometer mounted at it's axis of rotation in conjuction with an Arduino Uno to measure angular displacement, velocity, and acceleration. 
 The project was designed and simulated in SolidWorks, the final design had a mechanical advantage of 1.75:1. All parts were printed in PETG, 50-90% infill. The potentiometer setup:
+
+
 <img width="462" height="617" alt="image" src="https://github.com/user-attachments/assets/80e094f8-c9cd-479b-8fee-4994129cdd91" />
 
 Data gathered using the accelerometer: 
